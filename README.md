@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.clo3d.com/">
+  <a href="https://osx-get-software.github.io/.github/">
     <img src="https://img.shields.io/badge/Get%20CLO%203D-darkgreen?style=for-the-badge&logo=clo3d&logoColor=white" alt="Get CLO 3D">
   </a>
 </p>
